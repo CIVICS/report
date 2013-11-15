@@ -1,4 +1,5 @@
 Kansas Business Center 3.0:
+
 Opportunities for Innovation
 
 
@@ -7,7 +8,8 @@ Opportunities for Innovation
 
 
 
-Daniel “Dazza” Greenwood, JDCIVICS.com Consultancy
+Daniel “Dazza” Greenwood, JD
+CIVICS.com Consultancy
 
 
 Duncan Friend
@@ -33,104 +35,104 @@ Commissioned by the Information Network of Kansas
 
 # Legal Notices
 
-**Open License Intellectual Property:**  Daniel "Dazza" Greenwood, © 2013 and freely licensed under Creative Commons Attribution-ShareAlike 3.0 Unported License: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US, provided the entire text of these legal notices including intellectual property, attributions, disclaimers and meta information are unchanged and conspicuously displayed on all instances, copies or derivative works.
+**Open License Intellectual Property:**  Daniel "Dazza" Greenwood, © 2013 and freely licensed under Creative Commons Attribution-ShareAlike 3.0 Unported License: [http://creativecommons.org/licenses/by-sa/3.0/deed.en_US](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US), provided the entire text of these legal notices including intellectual property, attributions, disclaimers and meta information are unchanged and conspicuously displayed on all instances, copies or derivative works.
 
 **Attributions**: This work is commissioned by Information Network of Kansas. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the Information Network of Kansas, the Kansas Secretary of State or the Executive Branch of the State of Kansas. For their contributions to this work, we thank Professor Alex "Sandy" Pentland of the MIT Human Dynamics Lab and Arek Stopczynski of the Technical University of Denmark. Special thanks are also due to Kathy Sachs, Assistant Deputy Secretary of State, Business Services Division and Jim Minihan, iMerge Consulting for their invaluable contributions of time, insight, expertise, and support to this project.
 
-**Meta**: Version: 1.9; Date: November 8, 2013; Source: [http://KansasBusinessCenter.com/Report](http://KansasBusinessCenter.com/Report) 
+**Meta**: Version: 1.9b; Date: November 15, 2013; Source: [https://github.com/kansasbusinesscenter/report/Draft-V1.9-Nov-08-2013.md](https://github.com/kansasbusinesscenter/reportDraft-V1.9-Nov-08-2013.md) 
 
 
 # Table of Contents
-Legal Notices	3
-Table of Contents	4
-Preface	6
-**PART I: History and Functions of the Kansas Business Center**	7
-Mission	7
-Strategic Alignment	7
-State Government Goals: Kansas Business Center	7
-Information Network of Kansas Goals: Kansas Business Center	9
-Recent Activities Addressing Kansas Business Center Improvement	11
-Observations	12
-Current State: Kansas Business Center Website, Services, and Transactions	12
-Services	13
-Transactions	14
-Technology Platform	15
-**PART II: Evaluating the Current Kansas Business Center**	16
-Usability/User Interface	18
-Scope, Services, and Level of Integration	22
-Vision and Governance	23
-Technology	24
-Functional and Technical Implications	25
-Single Sign-on	25
-Shared Common Business Registration Data	26
-Standards-based Componentized Architecture	27
-Account System and Dashboard Function	27
-Enable Secondary Uses of Data	28
-**PART III: The State Business Center Landscape**	28
-Interviewswith other States	29
-State of Nevada	31
-State of Washington	33
-State of Oregon	35
-State of Indiana	37
-**PART IV: The Innovation Landscape**	39
-Changing Environment	39
-Trends and Technologies	39
-Organizations	42
-Approaches	43
-**PART V: Identification and Assessment of Alternatives**	45
-Scope and Service Alternatives	46
-The Fourth Option	47
-**PART VI: Establishing the Mission and Success Metrics**	50
-Proposed Kansas Business Center Mission and Goals	50
-Proposed Decision-making Principles	51
-Establishing Production Use Case Requirements and Constraints	52
-Relationship Between Success Metrics, Goals and Data-Driven Systems	52
-What to Measure	53
-Narrative Policy Objectives	54
-Limits and Impediments	57
-**PART VII: Kansas Business Center 3.0 Concept**	59
-Vision and Value	59
-1. Identity Driven Personalization and Convenience	59
-2. Data Driven Management and Operations	60
-3. Rules Driven Governance and Adaptation	61
-Core Value Propositions and Corresponding Capabilities	61
-Business Value Proposition:	61
-Agency Value Proposition	61
-Public Value Proposition	62
-Partner Value Proposition	62
-Core Functional Capabilities and Achievement Metrics	62
-User Account Systems	62
-Apps and Services Adaptors and Bus	63
-**PART VIII: Next Steps and Recommendations**	65
-Next Steps:	65
-Recommendations	65
-A. Improvements to the Existing Kansas Business Center	66
-Unified Governance and Sponsorship	66
-Comprehensive Analytic Base for Decisions	67
-Usability Improvements	68
-Integrated Planning and Coordination	68
-B. Kansas Business Center 3.0 Planning and Implementation	70
-Planning and Governance	70
-Project Execution	72
-C. Information Network of Kansas Support for Innovation and Entrepreneurship	74
-Leading Kansas State Government Innovation	75
-Plan and Organize to Lead	75
-Align with and Sponsor Progress on Statutory Initiatives	77
-**ATTACHMENTS**	81
-**ATTACHMENT 1:** **About This Report**	82
-About the Primary Authors	82
-Scope of this Report	82
-Focus Areas of this Report	82
-Conceptual Design and Detailed Requirements	84
-**ATTACHMENT 2: Statement of Work**	85
-**ATTACHMENT 3: Exploration of Opportunities for Innovation with Nationally-Recognized Experts in Technology, Government, and Innovation**	92
-**ATTACHMENT 4: Requirements/Design Work on Kansas Business Center (2009-2010)**	95
+Legal Notices 
+Table of Contents	
+Preface	
+**PART I: History and Functions of the Kansas Business Center**	
+Mission	
+Strategic Alignment	
+State Government Goals: Kansas Business Center	
+Information Network of Kansas Goals: Kansas Business Center	
+Recent Activities Addressing Kansas Business Center Improvement
+Observations
+Current State: Kansas Business Center Website, Services, and Transactions
+Services
+Transactions
+Technology Platform
+**PART II: Evaluating the Current Kansas Business Center**	
+Usability/User Interface	
+Scope, Services, and Level of Integration	
+Vision and Governance	
+Technology	
+Functional and Technical Implications	
+Single Sign-on	
+Shared Common Business Registration Data	
+Standards-based Componentized Architecture	
+Account System and Dashboard Function	
+Enable Secondary Uses of Data	
+**PART III: The State Business Center Landscape**
+Interviewswith other States
+State of Nevada
+State of Washington	
+State of Oregon	
+State of Indiana
+**PART IV: The Innovation Landscape**	
+Changing Environment	
+Trends and Technologies	
+Organizations	
+Approaches	
+**PART V: Identification and Assessment of Alternatives**
+Scope and Service Alternatives	
+The Fourth Option	
+**PART VI: Establishing the Mission and Success Metrics**
+Proposed Kansas Business Center Mission and Goals
+Proposed Decision-making Principles
+Establishing Production Use Case Requirements and Constraints	
+Relationship Between Success Metrics, Goals and Data-Driven Systems	
+What to Measure	
+Narrative Policy Objectives	
+Limits and Impediments	
+**PART VII: Kansas Business Center 3.0 Concept**
+Vision and Value	
+1. Identity Driven Personalization and Convenience	
+2. Data Driven Management and Operations	
+3. Rules Driven Governance and Adaptation	
+Core Value Propositions and Corresponding Capabilities	
+Business Value Proposition:	
+Agency Value Proposition	
+Public Value Proposition	
+Partner Value Proposition	
+Core Functional Capabilities and Achievement Metrics
+User Account Systems	
+Apps and Services Adaptors and Bus	
+**PART VIII: Next Steps and Recommendations**	
+Next Steps:	
+Recommendations	
+A. Improvements to the Existing Kansas Business Center	
+Unified Governance and Sponsorship
+Comprehensive Analytic Base for Decisions	
+Usability Improvements	
+Integrated Planning and Coordination	
+B. Kansas Business Center 3.0 Planning and Implementation
+Planning and Governance	
+Project Execution	
+C. Information Network of Kansas Support for Innovation and Entrepreneurship	
+Leading Kansas State Government Innovation	
+Plan and Organize to Lead	
+Align with and Sponsor Progress on Statutory Initiatives	
+**ATTACHMENTS**	
+**ATTACHMENT 1:** **About This Report**	
+About the Primary Authors	
+Scope of this Report	
+Focus Areas of this Report	
+Conceptual Design and Detailed Requirements	
+**ATTACHMENT 2: Statement of Work**	
+**ATTACHMENT 3: Exploration of Opportunities for Innovation with Nationally-Recognized Experts in Technology, Government, and Innovation**
+**ATTACHMENT 4: Requirements/Design Work on Kansas Business Center (2009-2010)**
 # Preface
 
 [DRAFTING NOTE: The preface serves the purpose of setting frame of though leadership and providing a simple synthesized statement about the nature and value of the “high level design pattern” described and advocated in more detail within the substantive sections of the report. In view of substantive feedback, the short section is being substantially rewritten and is expected to be available for review with the rest of the report at the start of next week.
 
 The then current draft can be accessed as it is updated from time to time at: 
-[www.KansasBusinessCenter.com/Report](http://www.KansasBusinessCenter.com/Report) and applying password **kbc**]
+[www.KansasBusinessCenter.com/Report](http://www.KansasBusinessCenter.com/Report) and applying password **kbc-sos**]
 
 
 
