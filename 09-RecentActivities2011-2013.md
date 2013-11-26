@@ -1,4 +1,4 @@
-##Recent Activities (2011-2013)
+###Recent Activities (2011-2013)
 
 The plans above show a recurrent, although somewhat uneven, focus on a goal of further improvement of the Kansas Business Center.  To better understand how the current effort to identify opportunities for innovation fits with recent efforts, we conducted a cursory review of the minutes of Information Network of Kansas Board meetings and Executive Director and General Manager reports.  While this method of research has some shortcomings that may result in less than a full catalog of activities and participants, the resulting timeline reveals some significant lapses in continuity that raises questions about the level of commitment to the goals outlined in the planning documents cited above. The timeline below begins about one year after the 2009-2010 improvement efforts.
 
