@@ -1,9 +1,9 @@
-#History and Strategic Context
+##History and Strategic Context
 
 To identify opportunities for innovation in the service delivery model for the Kansas Business Center (KBC), we begin by tracing the current mission of the KBC to its foundation in the strategic goals established by both the Information Network of Kansas Board of Directors and the State of Kansas. We then place recent efforts toward improvement in that context, and consider what might be needed to successfully engage innovation. The following review should not be considered comprehensive, but provides excerpts from key documents that convey the history and purpose of the KBC as it relates to strategy and commitments to improvements.
 
 
-##Mission of the Kansas Business Center
+###Mission of the Kansas Business Center
 
 The Kansas Business Center was initially deployed online in December 2002. The KBC was redeployed with a new interface and capabilities on December 22, 2008. The website referred to in this report is currently located at: http://www.kansas.gov/businesscenter/.  
 
