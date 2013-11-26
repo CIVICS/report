@@ -1,4 +1,4 @@
-#Observations
+##Observations
 
 When recent activities in support of the improvement of the Kansas Business Center are set in the context of the history of planning and goal-setting efforts by both the State and the Information Network of Kansas, several aspects stand out:
 
