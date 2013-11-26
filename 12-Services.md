@@ -1,6 +1,6 @@
-#Services
+###Services
 
-##Assistance in Starting or Maintaining a Business
+####Assistance in Starting or Maintaining a Business
 
 The specific transactions that can be conducted by users of the site with the Kansas Secretary of State’s office and the Kansas Department of Revenue sit within a framework of supporting information and services provided by Network Kansas (see http://www.networkkansas.com/about).   
 
