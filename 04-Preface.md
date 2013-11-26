@@ -1,4 +1,4 @@
-# Preface
+##Preface
 
 The Kansas Business Center is envisioned as an efficient, effective and elegant system for interactions and transactions between Kansas state government and Kansas businesses. The underlying logic is that by rendering all such interactions through coordinated information networks and electronic transactions it is possible to organize clear and easily available interaction paths between business and state government.
 
@@ -7,7 +7,7 @@ The key drivers propelling this vision are promoting economic development, provi
 The old approach to streamline interactions with business has been to create a large scale portal intended to act as a one-stop single face of government. A key success metric for such a portal is to have as many interactions as possible available through and operating under its common umbrella. Yet, as more types and methods of interaction are brought under one umbrella, portals become more complex and confusing for the users. The types of business to government interactions vary widely and in many cases it is infeasible to shape these interactions into a common user experience due to inconsistent underlying requirements and contexts. Basic operational, policy, technical, economic, legal and other assumptions are not necessarily shared across all government agency interaction points with business. The infeasibility of forcing the many facets and faces of government into a single one size fits all portal is even more obvious when one considers the need for business to interoperate efficiently with federal, state and local governments, and sometimes many different organizations at each level of government spanning jurisdictions and legal regimes.
 
 
-A Better Path Is Right In Front of Us
+####A Better Path Is Right In Front of Us
 
 The Kansas Business Center approach proposed in this report is truly innovative in that it is intended as a set of interoperable services that allow a number of apps and other systems to integrate and hence enable many doors for business to enter, depending on their needs and preferences. A truly tailored and personalized experience is possible and a natural result of adopting the web 2.0 design pattern in a government content.
 
@@ -16,7 +16,7 @@ The common experience of web users – on big, medium or small screens alike –
 By use of the simple yet powerful design patterns of Web 2.0 online identity for user managed access to protected data, the Kansas Business Center and any governmental business center can overcome key business model and design challenges inhibiting achievement of potential and full value to all the stakeholders.
 
 
-## Breaking Through the Ceiling
+####Breaking Through the Ceiling
 
 The Kansas Business Center is not different whether in vision, drivers or inhibitors, from the general context described above. The same types of seemingly interminable factors have likewise blocked more complete transition to a digital footing in healthcare, education, commerce, sciences, transportation and other sectors. However, key constraints to progress have recently been overcome in so-called Web 2.0 environments by use of new business capabilities, legal methods and technical tools in particular design patterns. National governments including the United Kingdom and New Zealand have following the lead of the CIO and CTO of the United States in exploring how these capabilities, methods and tools can be applied in a government context. Leading academic and research thought leaders at the MIT Media Lab and NYU GovLab have likewise made strides in demonstrative tailored proofs of concept and collecting examples of practical deployments of these approaches by, with and between governments.
 
