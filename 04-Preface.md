@@ -1,4 +1,4 @@
-Preface
+# Preface
 
 The Kansas Business Center is envisioned as an efficient, effective and elegant system for interactions and transactions between Kansas state government and Kansas businesses. The underlying logic is that by rendering all such interactions through coordinated information networks and electronic transactions it is possible to organize clear and easily available interaction paths between business and state government.
 
@@ -16,7 +16,7 @@ The common experience of web users – on big, medium or small screens alike –
 By use of the simple yet powerful design patterns of Web 2.0 online identity for user managed access to protected data, the Kansas Business Center and any governmental business center can overcome key business model and design challenges inhibiting achievement of potential and full value to all the stakeholders.
 
 
-Breaking Through the Ceiling
+## Breaking Through the Ceiling
 
 The Kansas Business Center is not different whether in vision, drivers or inhibitors, from the general context described above. The same types of seemingly interminable factors have likewise blocked more complete transition to a digital footing in healthcare, education, commerce, sciences, transportation and other sectors. However, key constraints to progress have recently been overcome in so-called Web 2.0 environments by use of new business capabilities, legal methods and technical tools in particular design patterns. National governments including the United Kingdom and New Zealand have following the lead of the CIO and CTO of the United States in exploring how these capabilities, methods and tools can be applied in a government context. Leading academic and research thought leaders at the MIT Media Lab and NYU GovLab have likewise made strides in demonstrative tailored proofs of concept and collecting examples of practical deployments of these approaches by, with and between governments.
 
@@ -26,6 +26,7 @@ Working closely with the Kansas Business Center Team, Duncan Friend and I have r
 The process of creating this report has itself been an act of innovation, new value-creation and generation of new knowledge. While the approach designed for the Kansas Business center has been uniquely tailored for this environment, the basic design pattern and value propositions are suitable for consideration by any government seeking to make the most of its business interfaces. Hopefully, the practices being explored and developed by Kansas can set a model and method for broader public sector innovation in the same way the statute enabling INK itself served as a national example soon followed by many states.
 
 These game changers and their corresponding design patterns alter the fundamental dynamics that have defined the boundary conditions and capability set of Kansas Business Center. By testing the operational functions, features and flows of Gov 2.0 with Kansas Business Center, the INK Board may well discover that this scalable, lightweight and robust approach holds the promise of a renewed period of invention, innovation and ingenuity not witnessed since the early days of the World Wide Web.
+
 
 Dazza J. Greenwood, JD
 
