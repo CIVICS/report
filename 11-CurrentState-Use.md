@@ -1,11 +1,11 @@
-#Current State: Kansas Business Center (2.0)
+##Current State: Kansas Business Center (2.0)
 
 This section provides a high-level overview of the functions and governance of the current Kansas Business Center (referred to as v2.0), located online at: http://www.kansas.gov/businesscenter.
 
 The functionality related to the Kansas Secretary of State’s office has been confirmed by them. The discussion of the Kansas Department of Revenue functionality is taken directly from a review of the site and has not been verified with their management. In addition, we did not conduct a technical review of the website, but relied on information provided from documentation created as part of a code review commissioned by the INK Board.
 
 
-##Use
+###Use
 
 Information about the current and historical usage of the Kansas Business Center website is provided below. 
 
