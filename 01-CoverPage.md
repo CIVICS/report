@@ -1,16 +1,16 @@
-Kansas Business Center:
-Opportunities for Innovation
+# Kansas Business Center:
+#Opportunities for Innovation
 
 
-Daniel “Dazza” Greenwood, JD
+###Daniel “Dazza” Greenwood, JD
 CIVICS.com Consultancy
 
-Duncan Friend
+###Duncan Friend
 Kansas Secretary of State’s Office
 
 
-Commissioned by the Information Network of Kansas
+##Commissioned by the Information Network of Kansas
 
 
-November 2013
+###November 2013
 
