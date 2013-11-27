@@ -3,16 +3,16 @@
 The next steps assume that the State has agreed to establish a KBC steering committee.  If so, they should immediately proceed to implement Recommendation 2 & 3 above.  However, if the Steering Committee decides to move forward in preparation for a Kansas Business Center 3.0 project, the following planning and governance tasks should be performed.
 
 
-### Recommendation B-1
+### Recommendations B-1
 
-Hire a project director to lead the Kansas Business Center 3.0 project.  
+Establish an E-Business Inventory. 
 
-The INK Board should fund this position as an employee of INK, but have it report to the steering committee for the duration of the project.  This will not only publicly signal and reinforce INK as a significant stakeholder and joint sponsor of the project, but also create a bridge to integration of the new KBC technologies and processes into other 
-INK applications.
+Fund the creation of an inventory of primary systems involved in business licensing across cabinet agencies with the idea of identifying “low hanging fruit” – processes and technical capabilities where incentives exist for “quick hits” in removing roadblocks and increasing access and usability. As discussed previously, automation of bulk filing should be a priority, as for many intermediaries, a website could be much less useful than creating the ability to file in bulk electronically.
+
 
 Once the steering committee and Board have taken this step, the implementation of the inventory outlined in Recommendation 4 above should be built out to a create a more comprehensive picture of the “as-is” situation with business filing in the state.
 
-### Recommendation B-3
+### Recommendation B-2
 
 Baseline selected key business registration and licensing transactions at the state.
 
@@ -20,7 +20,7 @@ To understand the cost-benefit and return-on-investment of process reengineering
 
 Once executive leadership has a better view of both the opinions and experiences of current customers and the state of the most oft-used processes and systems for registration and licensing, the Steering Committee should weigh carefully the value of reengineering processes and streamlining of associated regulations to avoid “paving the cow path” by automating processes without revisiting their efficiency.  In this vein, the following recommendation should be considered optional based on policy, timing, the feedback of businesses, and other drivers in the current economic environment.
 
-###Recommendation B-4
+###Recommendation B-3
 
 Convene a “Blue Ribbon Panel” on Streamlining Business Regulation
 
@@ -31,7 +31,7 @@ http://www.sao.wa.gov/auditreports/auditreportfiles/ar1008276.pdf, or the State 
 
 Finally, while sponsorship and priority should be visible to state agencies and the public through the chartering of a steering committee and the accompanying outreach, the last recommendation in this section comes from our interviews with other states.
 
-###Recommendation B-5
+###Recommendation B-4
 
 Pursue Business One-Stop Legislation and Executive Order. 
 
@@ -40,7 +40,7 @@ The INK Board should recommend that the Steering Committee advocate the introduc
 
 Earlier in the Identification and Evaluation of Alternatives section of this report, the recommendation was to pursue two paths in parallel.  The first was to Deploy a Toolbox for Intergovernmental Business Registration and Filing. If the state is to embark on a KBC 3.0 project, the four elements of that strategy should be pursued from the outset. Proposed approaches for two items from that strategy deserve special mention here:
 
-### Recommendation B-6
+### Recommendation B-5
 
 Implement Federated Identity as a Service. 
 
@@ -48,7 +48,7 @@ Approach INK to offer federated identity services for state agency business file
 
 INK was created for the purpose of “routing around” bureaucracy and the long planning and implementation cycles of traditional government.  The Board can easily work with third party providers to create an identity offering that could be used to streamline interactions with business.  It is also possible that an existing credential, such as the username and password approach currently used by a popular business partner like the Kansas Department of Revenue or Department of Labor could be extended for this purpose. Whatever the approach, the implementation of federated identity could jumpstart innovation efforts in this and other areas of government service delivery.
 
-### Recommendation B-7
+### Recommendation B-6
 
 Pursue account management functionality for use in business filing statewide.
 
