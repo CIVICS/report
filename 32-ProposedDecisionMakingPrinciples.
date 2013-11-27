@@ -1,0 +1,100 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Report by kansasbusinesscenter</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+    <!--[if lt IE 8]>
+<link rel="stylesheet" href="stylesheets/ie.css">
+<![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+
+
+    <div class="wrapper">
+
+         <div id="title">
+         <center><h1>Kansas Business Center 3.0</h1></center>
+       <center> GetHub Source of <a href="http://kansasbusinesscenter.org"> Authoritative Report Content </a></center>
+         
+          <hr>
+       </div>
+
+ 
+ 
+ 
+<h3>Proposed Decision-making Principles</h3>
+
+<p>In evaluating the alternative proposed in the following section, the solution approach selected should:
+Implement functionality that supports business registration, filing, payments, and ongoing reporting in a way that is as seamless as possible to the end user, so that it:</p>
+
+<p>Minimizes or eliminates the need for the user to re-enter data across systems and agencies
+“Remembers” the user across organizational boundaries and time
+Allows users access to their own data, as well as exercise fine-grained controls on sharing with both the state and, over time, other parties they choose.
+Amplifies the value of the business identity established as more transactions are conducted
+Incorporates lessons learned and capabilities for ongoing assistance to businesses by Network Kansas.
+Integrate with a common payment system for business registration filing and reporting activities with the State.</p>
+
+<p>Use a technical solution that accommodates the integration of backend agency processes and systems in a way that:</p>
+
+<p>Minimizes up-front investment and ongoing cost
+Is standards-based
+Is secure
+Is stable, scalable, and minimizes technical risks in implementation and support
+Uses a framework of configurable “components” that are reusable and extensible to new processes and agencies
+Allows changes in processes or requirements to be easily implemented and maintained.
+Makes use of open source technology, where appropriate, carefully weighing the cost/benefit of “open code” with the advantages of commercial off-the-shelf software packages and third party hosting that can reduce the complexity and resources required for maintenance.
+New agencies or processes can be added and integrated over time without significant rework, risks.
+Focuses on reducing redundancy and complexity in the current electronic process.</p>
+
+<p>Design the user experience in such a way that:</p>
+
+<p>Mirrors best practices across public and commercial applications
+Portrays transitions across organizational boundaries in government as seamless, both horizontally and vertically
+Leverages private and public sector best practices and incorporates the functionality desired by intermediaries who file and maintain records on behalf of business owners in both batch and individual mode.</p>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<hr>
+<hr>
+
+     <blockquote>
+       <li>Kansas Business Center 3.0 <a href="https://github.com/kansasbusinesscenter/report"> Master Data Repository on GitHub </a></li>
+       <li>Kansas Business Center 3.0 <a href="http://kansasbusinesscenter.com"> Project Site </a> Content Source</li>
+     </blockquote>
+     
+<strong>Copyright 2013,</strong> Information Network of Kansas. Licensed Under <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </body>
+</html>
