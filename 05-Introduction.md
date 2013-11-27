@@ -1,4 +1,4 @@
-#Executive Summary
+# Introduction
 
 In the world of business, time is money. The ability for entrepreneurs to act quickly on new ideas or plans is vital to a vibrant economy. For existing businesses, competition requires a focus on adding value while lowering costs. In both cases, reducing the time and effort required to interact with government is key to a growth promoting environment.
 
