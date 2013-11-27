@@ -5,7 +5,8 @@ The transactions and functionality available for users to conduct through the Ka
 
 Kansas Secretary of State
 
-Introduction TBD (talk about how some functionality is not yet online, only forms)
+Some of the functionality shown below is not yet online and only forms are provided.
+
 Business Entity Search (and copy function)
 Business Entity Name Availability
 Business Entity Name Reservations
