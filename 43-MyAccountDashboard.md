@@ -1,0 +1,7 @@
+###MyAccount Dashboard
+
+#####“MyAccount” functionality that aggregates transactions, reporting, filing, and other relevant information for users.
+
+One common point of agreement between state agencies and businesses involved in the business formation and filing process is the value of a single user-managed account function that aggregates – either directly or by reference through hyperlinks - information about transactions related to a particular business, copies of filings, notifications about activities performed (for convenience and to assist in early detection of fraud), and relevant upcoming deadlines (annual report due date, for example).  This account management function would also include profile information about an individual, including mailing and email address. Payment methods and related information might be maintained here, or at least set up to be quickly accessed from this location.  Functionality could also be included to incorporate links to other common used services.  Over time, such functionality could be extended to provide other services to customers.  It should be noted that the information to be aggregated in terms of business registrations and reports may often be public. Therefore, a design decision will need to be as to whether or not an individual user may aggregate and track ANY business, rather than only those in which they hold some interest or formal relationship. Prototype screens that support the example below are included in Appendix G –Kansas Business Center MyAccount Prototype.
+
+***Image
