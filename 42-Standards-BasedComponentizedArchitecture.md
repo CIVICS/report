@@ -1,0 +1,7 @@
+###Standards-based Componentized Architecture
+
+#####A “componentized” template-based functional and technical approach that other state and local organizations can “plug-in” to with limited major integration work.
+
+Both issues (A, B) highlighted in the immediately preceding text are challenges that stem from the way in which government is organized, along with the systems that support its activities.  Because it would be an almost insurmountable challenge to move to a common system for all business registration in the state, certainly not in the mid-term, it is inevitable that agency systems will need to be allowed to have several tiers of ways in which they might interoperate with the new Kansas Business Center.  However, because no formal agreement on scope has been established, and no inventory has been conducted of potential target systems that would need to interoperate with the KBC, it is very difficult to proscribe specific requirements for the integration techniques and levels that would need to be provided.
+
+Because of this, it appears that an incremental approach, based on standards and designed to be loosely coupled using web services seems advisable.  And, as outlined in the Recommendations and Next Steps section, it also appears prudent to limit the scope of the initial rollout to those agencies and systems involved in new business formation, with the idea that the architecture developed could serve as a model for future integration.
