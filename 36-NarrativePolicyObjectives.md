@@ -1,0 +1,9 @@
+###Narrative Policy Objectives
+
+Ideally, to ensure measurable performance and progress toward intended outcomes, each objective should be clearly construed by KBC system providers not only to align project planning, budget allocation and communications strategy but also to specify, scope, standardize and share the actual data needed for analytics and predictive modeling that can determine success at meeting the objective.  
+
+Typically, however, goals and objectives are stated in narrative prose that effectively relays a general state of affairs but frequently does not objectively translate to clear metrics and objective expressions of criteria indicating whether or when the objectie has been achieved.  The ambiguity can be useful to some extent, in order to permit or even invite creative interpretations and approached rather than prejudge how the challenge will best be addressed.  However this method of describing goals, objectives and tasks can itself be refined in order to better reach the profound potential available from big data driven networked systems such as that proposed for the next version of the KBC.  
+
+In a reduced form example, imagine a vision statement that included the phrase: "Promote, Protect, Prepare and Propel New Business in Kansas".  
+
+The item "prepare", then, could be measured by how quickly and completely profile information of a given KBC business account is updated with relevant and important dashboard visualizations, alerts or, if desired, by enabling new businesses to “opt-in” to allow prospective business partners to discover relevant background information about them to prepare for a sales call, plan to better compete in the open market or perform due diligence in anticipation of a possible partnership.  Similarly, the item calling for state government to help "propel" Kansas business could be measured by how many KBC businesses experienced an increase in revenue, or expanded work force.  
