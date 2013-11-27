@@ -1,0 +1,9 @@
+###Shared Common Business Registration Data
+
+#####Method of sharing “Common Business Registration” data between government organizations involved in registration and licensing. This may also be coupled with a “unique business identifier” that can be used to identify businesses across systems.    
+
+Another issue that increases drag on entrepreneurs seeking to negotiate the process of forming a business is the frequent requirement – again, due to the silo’d nature of government organizations and supporting computer systems – for reentry of common data during the application process.  This not only works against efficiency, but introduces an increased risk of mistyping and data integrity problems.
+
+The state needs to define the requirements for this base set of data, which will require finalizing the scope of the project in terms of which organizations and transactions will be included in the Kansas Business Center.  Further technical discussions in this area are also needed, as it appears that there is neither a technical architecture currently in place at the State of Kansas that has been formally established for use in data sharing, nor have data sharing standards been established which could be taken advantage of by this project.  That said, the technologies are available and in place in other states that could be used to share a base set of data related to business formation and licensing in the state.
+
+The approach of making use of a unique business identifier across systems has been made use of in several states (State of Nevada, for example) where the Secretary of State’s office is charged with establishing and maintaining it. Other approaches are also used.  The Commonwealth of Kentucky, for example, signed a bill (HB 343) into law in March of this year charging their One-Stop Business Portal Advisory Committee with establishing a system to consolidate such numbering.
