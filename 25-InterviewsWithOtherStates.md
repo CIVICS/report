@@ -13,19 +13,23 @@ Therefore, without a deep study of each project, lessons can only truly be learn
 The four states that were interviewed directly were Nevada, Oregon, Indiana, and Washington.  The list below provides a general outline of the type of questions asked during the interviews, followed by sections summarizing the information obtained:
 
 Questions
-How was the project sponsored/led? 
-How is governance for the project, and for ongoing operations, handled?
-What did the effort cost overall (estimated)? – internal and external (and, if external, which vendors/pieces)
-What is was the length of project and how was it phased?
-Was the software solution custom built, commercial off-the-shelf, or a combination?
-How did you handle any procurements – like, one big one to start (package with consulting) or serially?
-How is maintenance and support for the solution handled (contracted or in-house?) What are the costs associated with that (estimated)?
-Method of integration/degree of integration of processes between agencies, if any?  Like, did agencies redesign/reengineer processes to participate, and, if so, to what degree?
-How is Identity handled? (Single sign on, federated identity, other?)
-Analytics / Information “Exhaust” (analytics, reporting and byproducts) – Open Data, Data Reuse (if any)
-What advice do you have in terms of Lessons Learned/Issues/Challenges
-Future plans/current related initiative – what are you planning or working on now re: one-stop initiatives?
-How satisfied would you say your customers were?
-What kind of transaction volume does your website have?
-For those services that are offered, are they also offered on paper/offline?  What kind of increase have you seen in online adoption in those services with the advent of the new one-stop website?
-How do you support the site/services? That is, are questions handled by a third-party, a central help desk, by agencies on who are responsible for a particular type of transaction, etc.? Are the costs of this support included in the costs discussed previously?
+
+How was the project sponsored/led?  
+How is governance for the project, and for ongoing operations, handled?  
+What did the effort cost overall (estimated)? – internal and external (and, if external, which vendors/pieces)  
+What is was the length of project and how was it phased?  
+Was the software solution custom built, commercial off-the-shelf, or a combination?  
+How did you handle any procurements – like, one big one to start (package with consulting) or serially?  
+How is maintenance and support for the solution handled (contracted or in-house?) What are the costs associated with that (estimated)?  
+Method of integration/degree of integration of processes between agencies, if any?  Like, did agencies redesign/reengineer processes to participate, and, if so, to what degree?  
+How is Identity handled? (Single sign on, federated identity, other?)  
+Analytics / Information “Exhaust” (analytics, reporting and byproducts) – Open Data, Data Reuse (if any)  
+What advice do you have in terms of Lessons Learned/Issues/Challenges  
+Future plans/current related initiative – what are you planning or working on now re: one-stop initiatives?  
+How satisfied would you say your customers were?  
+What kind of transaction volume does your website have?  
+For those services that are offered, are they also offered on paper/offline?  
+What kind of increase have you seen in online adoption in those services with the advent of the new one-stop website?  
+How do you support the site/services?  That is, are questions handled by a third-party, a central help desk, by agencies on who are responsible for a particular type of transaction, etc.?  
+Are the costs of this support included in the costs discussed previously?
+
