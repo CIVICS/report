@@ -6,7 +6,6 @@ The key drivers propelling this vision are promoting economic development, provi
 
 The old approach to streamline interactions with business has been to create a large scale portal intended to act as a one-stop single face of government. A key success metric for such a portal is to have as many interactions as possible available through and operating under its common umbrella. Yet, as more types and methods of interaction are brought under one umbrella, portals become more complex and confusing for the users. The types of business to government interactions vary widely and in many cases it is infeasible to shape these interactions into a common user experience due to inconsistent underlying requirements and contexts. Basic operational, policy, technical, economic, legal and other assumptions are not necessarily shared across all government agency interaction points with business. The infeasibility of forcing the many facets and faces of government into a single one size fits all portal is even more obvious when one considers the need for business to interoperate efficiently with federal, state and local governments, and sometimes many different organizations at each level of government spanning jurisdictions and legal regimes.
 
-
 ####A Better Path Is Right In Front of Us
 
 The Kansas Business Center approach proposed in this report is truly innovative in that it is intended as a set of interoperable services that allow a number of apps and other systems to integrate and hence enable many doors for business to enter, depending on their needs and preferences. A truly tailored and personalized experience is possible and a natural result of adopting the web 2.0 design pattern in a government content.
@@ -15,7 +14,6 @@ The common experience of web users – on big, medium or small screens alike –
 
 By use of the simple yet powerful design patterns of Web 2.0 online identity for user managed access to protected data, the Kansas Business Center and any governmental business center can overcome key business model and design challenges inhibiting achievement of potential and full value to all the stakeholders.
 
-
 ####Breaking Through the Ceiling
 
 The Kansas Business Center is not different whether in vision, drivers or inhibitors, from the general context described above. The same types of seemingly interminable factors have likewise blocked more complete transition to a digital footing in healthcare, education, commerce, sciences, transportation and other sectors. However, key constraints to progress have recently been overcome in so-called Web 2.0 environments by use of new business capabilities, legal methods and technical tools in particular design patterns. National governments including the United Kingdom and New Zealand have following the lead of the CIO and CTO of the United States in exploring how these capabilities, methods and tools can be applied in a government context. Leading academic and research thought leaders at the MIT Media Lab and NYU GovLab have likewise made strides in demonstrative tailored proofs of concept and collecting examples of practical deployments of these approaches by, with and between governments.
@@ -23,11 +21,11 @@ The Kansas Business Center is not different whether in vision, drivers or inhibi
 One game changer is the REST web applications interfaces, allowing widely distributed and heterogeneous systems to use simple common messaging and touch point interaction protocols, enabling ultra lightweight interoperation. Another game change is OAuth 2 with OpenID, enabling large distributed and heterogeneous populations of users to log into the same system with their native identity credentials and conversely allows any given user to log into a wide variety of different organizations with the same identity credential they always use. These mass-market capabilities are blended informally or according to the OpenID Connect standard to allow fine grained user-granted authorizations to protected data as well as simplified connections to many apps, services or other systems. And big data is a game changer opening deep insight but is now easily accessible thanks to solutions like CKAN, MongoDB and other open data tools.
 
 Working closely with the Kansas Business Center Team, Duncan Friend and I have researched, analyzed and developed an approach and plan that INK can adopt and adapt to help achieve the full potential of Kansas Business Center. This approach is premised on a key set of innovative business practices, legal/policy instrument and technology/information tools and processes that embrace and focus available innovations.
+
 The process of creating this report has itself been an act of innovation, new value-creation and generation of new knowledge. While the approach designed for the Kansas Business center has been uniquely tailored for this environment, the basic design pattern and value propositions are suitable for consideration by any government seeking to make the most of its business interfaces. Hopefully, the practices being explored and developed by Kansas can set a model and method for broader public sector innovation in the same way the statute enabling INK itself served as a national example soon followed by many states.
 
 These game changers and their corresponding design patterns alter the fundamental dynamics that have defined the boundary conditions and capability set of Kansas Business Center. By testing the operational functions, features and flows of Gov 2.0 with Kansas Business Center, the INK Board may well discover that this scalable, lightweight and robust approach holds the promise of a renewed period of invention, innovation and ingenuity not witnessed since the early days of the World Wide Web.
 
+Dazza J. Greenwood, JD  
+October 2013
 
-Dazza J. Greenwood, JD
-
-November 2013
