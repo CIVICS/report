@@ -1,7 +1,7 @@
 #Contents
 
 ##Preface    
-##Executive Summary    
+##Introduction    
 ##History and Strategic Context    
 ###Mission of the Kansas Business Center    
 ###State Government Goals    
